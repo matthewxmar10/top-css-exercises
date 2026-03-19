@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.sans-serif {
+    font-family: "Verdana", "DejaVu Sans",sans-serif;
+    color: #000;
+    background-color: #f08080;
+}
+
+#serif-blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.sans-serif.large {
+    font-size: 24px;
+}
+
+#serif-greenbg {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
